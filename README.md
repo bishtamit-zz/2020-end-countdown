@@ -5,7 +5,7 @@
 
 # Todo
 
-[x] implement percentage remaining
-[ ] implement seconds remaining
-[ ] implement days remaining
-[ ] implement months remaining
+* [x] implement percentage remaining
+* [ ] implement seconds remaining
+* [ ] implement days remaining
+* [ ] implement months remaining
