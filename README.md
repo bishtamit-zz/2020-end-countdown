@@ -5,7 +5,9 @@
 
 # Todo
 
-* [x] implement percentage remaining
-* [ ] implement seconds remaining
-* [ ] implement days remaining
-* [ ] implement months remaining
+- [x] implement percentage remaining
+- [x] implement seconds remaining
+- [x] implement days remaining
+- [x] implement months remaining
+- [ ] implement styling
+- [ ] Add ads
