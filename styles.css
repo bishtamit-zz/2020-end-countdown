@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div.container {
+  background-color: lightyellow;
+  margin: auto 20vw;
+  /* display: block; */
+  /* border: 1px black dotted; */
+  /* margin: auto 20px; */
+  height: 100vh;
+  /* width: 80%; */
+}
+
+header h1 {
+  margin: 10px;
+}
+
+#buttons {
+  margin: 20px 10px;
+}
+
+.output {
+    margin: 10px;
+}
+
+.btn {
+  margin: 5px;
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-green {
+  border-color: #4caf50;
+  color: green;
+}
+
+.btn-green:hover {
+  color: white;
+  background-color: #4caf50;
+}
+
+.btn-red {
+  border-color: #f44336;
+  color: red;
+}
+
+.btn-red:hover {
+  color: white;
+  background-color: #f44336;
+}
+
+.btn-blue {
+  border-color: #2196f3;
+  color: dodgerblue;
+}
+
+.btn-blue:hover {
+  color: white;
+  background-color: #2196f3;
+}
+
+.btn-black {
+  border-color: black;
+  color: black;
+}
+
+.btn-black:hover {
+  color: white;
+  background-color: black;
+}
